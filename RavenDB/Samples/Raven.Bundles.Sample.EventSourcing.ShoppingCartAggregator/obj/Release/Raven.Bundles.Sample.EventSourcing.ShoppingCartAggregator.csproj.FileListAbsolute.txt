@@ -1,0 +1,4 @@
+C:\Builds\RavenDB-Stable\build\Raven.Bundles.Sample.EventSourcing.ShoppingCartAggregator.dll
+C:\Builds\RavenDB-Stable\build\Raven.Bundles.Sample.EventSourcing.ShoppingCartAggregator.pdb
+C:\Builds\RavenDB-Stable\Samples\Raven.Bundles.Sample.EventSourcing.ShoppingCartAggregator\obj\Release\Raven.Bundles.Sample.EventSourcing.ShoppingCartAggregator.dll
+C:\Builds\RavenDB-Stable\Samples\Raven.Bundles.Sample.EventSourcing.ShoppingCartAggregator\obj\Release\Raven.Bundles.Sample.EventSourcing.ShoppingCartAggregator.pdb
